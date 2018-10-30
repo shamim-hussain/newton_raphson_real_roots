@@ -1,4 +1,4 @@
-#A simple algorithm for olution of higher order polynomial equation for real roots and determination of their multiplicities by the Newton-Raphson method
+# A simple algorithm for olution of higher order polynomial equation for real roots and determination of their multiplicities by the Newton-Raphson method
 This algorithm recursively applies the Newton-Raphson method to find the real roots of a polynomial equation, implemented in Matlab with a GUI for visualization.
 * For more info see the "Project Description and Algorithm.pdf".
 * For a guide to using the algrothim see the instruction manual.
